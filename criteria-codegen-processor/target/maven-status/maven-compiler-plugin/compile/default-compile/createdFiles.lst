@@ -1,0 +1,4 @@
+META-INF/services/javax.annotation.processing.Processor
+com/ikrstevs/criteriacodegenprocessor/processor/CriteriaBuilderProcessor.class
+com/ikrstevs/criteriacodegenprocessor/annotation/CriteriaBuilder.class
+com/ikrstevs/criteriacodegenprocessor/annotation/CriteriaFilter.class

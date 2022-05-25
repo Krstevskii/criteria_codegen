@@ -1,0 +1,11 @@
+/Users/ikrstevs/Documents/data/criteria-codegen/criteria-codegen-api-impl/src/main/java/com/ikrstevs/criteriacodegenapiimpl/JpaConfiguration.java
+/Users/ikrstevs/Documents/data/criteria-codegen/criteria-codegen-api-impl/src/main/java/com/ikrstevs/criteriacodegenapiimpl/repository/BookRepository.java
+/Users/ikrstevs/Documents/data/criteria-codegen/criteria-codegen-api-impl/src/main/java/com/ikrstevs/criteriacodegenapiimpl/model/Book.java
+/Users/ikrstevs/Documents/data/criteria-codegen/criteria-codegen-api-impl/src/main/java/com/ikrstevs/criteriacodegenapiimpl/service/LibraryQueryService.java
+/Users/ikrstevs/Documents/data/criteria-codegen/criteria-codegen-api-impl/src/main/java/com/ikrstevs/criteriacodegenapiimpl/repository/LibraryRepository.java
+/Users/ikrstevs/Documents/data/criteria-codegen/criteria-codegen-api-impl/src/main/java/com/ikrstevs/criteriacodegenapiimpl/model/Library_.java
+/Users/ikrstevs/Documents/data/criteria-codegen/criteria-codegen-api-impl/src/main/java/com/ikrstevs/criteriacodegenapiimpl/model/Book_.java
+/Users/ikrstevs/Documents/data/criteria-codegen/criteria-codegen-api-impl/src/main/java/com/ikrstevs/criteriacodegenapiimpl/controller/LibraryController.java
+/Users/ikrstevs/Documents/data/criteria-codegen/criteria-codegen-api-impl/src/main/java/com/ikrstevs/criteriacodegenapiimpl/service/BookQueryService.java
+/Users/ikrstevs/Documents/data/criteria-codegen/criteria-codegen-api-impl/src/main/java/com/ikrstevs/criteriacodegenapiimpl/controller/BookController.java
+/Users/ikrstevs/Documents/data/criteria-codegen/criteria-codegen-api-impl/src/main/java/com/ikrstevs/criteriacodegenapiimpl/model/Library.java

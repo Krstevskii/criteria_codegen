@@ -1,0 +1,14 @@
+spring:
+  mvc:
+    format:
+      date: iso
+      time: iso
+      datetime: iso
+  datasource:
+    url: jdbc:mysql://localhost/criteria_codegen?verifyServerCertificate=false&useSSL=false&serverTimezone=Europe/Zurich
+    username: root
+    password: root
+    driver-class-name: com.mysql.jdbc.Driver
+
+  flyway:
+    locations: classpath:db/schema,classpath:db/data

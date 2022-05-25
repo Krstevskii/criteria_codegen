@@ -1,0 +1,26 @@
+DELIMITER $$
+
+DROP PROCEDURE IF EXISTS CREATE_BOOK_TABLE $$
+
+CREATE PROCEDURE CREATE_BOOK_TABLE()
+BEGIN
+    IF NOT EXISTS(
+        SELECT *
+        FROM INFORMATION_SCHEMA.TABLES
+        WHERE TABLE_SCHEMA = 'criteria_codegen'
+        AND TABLE_NAME = 'book'
+        )
+    THEN
+        CREATE TABLE book (
+          id INT NOT NULL AUTO_INCREMENT PRIMARY KEY,
+          name VARCHAR(500),
+          author VARCHAR(100),
+          date DATE
+        );
+    END IF;
+END $$
+
+DELIMITER ;
+
+CALL CREATE_BOOK_TABLE();
+DROP PROCEDURE CREATE_BOOK_TABLE;

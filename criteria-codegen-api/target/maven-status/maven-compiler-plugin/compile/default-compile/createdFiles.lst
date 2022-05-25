@@ -1,0 +1,7 @@
+com/ikrstevs/criteriacodegenapi/filter/RangeFilter.class
+com/ikrstevs/criteriacodegenapi/filter/StringFilter.class
+com/ikrstevs/criteriacodegenapi/filter/InstantFilter.class
+com/ikrstevs/criteriacodegenapi/filter/LocalDateFilter.class
+com/ikrstevs/criteriacodegenapi/filter/LongFilter.class
+com/ikrstevs/criteriacodegenapi/service/QueryService.class
+com/ikrstevs/criteriacodegenapi/filter/Filter.class

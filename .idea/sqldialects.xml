@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="SqlDialectMappings">
+    <file url="file://$PROJECT_DIR$/criteria-codegen-db/src/main/resources/db/data/V2022.04.09.01.07__initial_schema.sql" dialect="MySQL" />
+    <file url="file://$PROJECT_DIR$/criteria-codegen-db/src/main/resources/db/schema/V2022.04.08.22.47__initial_schema.sql" dialect="MySQL" />
+    <file url="file://$PROJECT_DIR$/criteria-codegen-db/src/main/resources/db/schema/V2022.04.10.13.25__create_library_table.sql" dialect="MySQL" />
+  </component>
+</project>

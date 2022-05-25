@@ -1,0 +1,13 @@
+com/ikrstevs/criteriacodegenapiimpl/JpaConfiguration.class
+com/ikrstevs/criteriacodegenapiimpl/model/Book_.class
+com/ikrstevs/criteriacodegenapiimpl/criteria/BookCriteria.class
+com/ikrstevs/criteriacodegenapiimpl/controller/LibraryController.class
+com/ikrstevs/criteriacodegenapiimpl/service/BookQueryService.class
+com/ikrstevs/criteriacodegenapiimpl/repository/BookRepository.class
+com/ikrstevs/criteriacodegenapiimpl/model/Book.class
+com/ikrstevs/criteriacodegenapiimpl/model/Library_.class
+com/ikrstevs/criteriacodegenapiimpl/repository/LibraryRepository.class
+com/ikrstevs/criteriacodegenapiimpl/model/Library.class
+com/ikrstevs/criteriacodegenapiimpl/criteria/LibraryCriteria.class
+com/ikrstevs/criteriacodegenapiimpl/service/LibraryQueryService.class
+com/ikrstevs/criteriacodegenapiimpl/controller/BookController.class

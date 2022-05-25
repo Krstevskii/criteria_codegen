@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="CompilerConfiguration">
+    <annotationProcessing>
+      <profile default="true" name="Default" enabled="true" />
+      <profile name="Maven default annotation processors profile" enabled="true">
+        <sourceOutputDir name="target/generated-sources/annotations" />
+        <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
+        <outputRelativeToContentRoot value="true" />
+        <processorPath>
+          <entry name="$PROJECT_DIR$/criteria-codegen-processor/src/main/java/com/ikrstevs/criteriacodegenprocessor/processor/CriteriaBuilderProcessor.java" />
+        </processorPath>
+        <module name="criteria-codegen-db" />
+        <module name="criteria-codegen-processor" />
+        <module name="criteria-codegen-intergation" />
+        <module name="criteria-codegen-api" />
+        <module name="criteria-codegen-api-impl" />
+      </profile>
+    </annotationProcessing>
+    <bytecodeTargetLevel>
+      <module name="criter-codegen-app" target="11" />
+      <module name="criter-codegen-integration" target="11" />
+      <module name="criteria-codegen-integration" target="11" />
+    </bytecodeTargetLevel>
+  </component>
+  <component name="JavacSettings">
+    <option name="ADDITIONAL_OPTIONS_OVERRIDE">
+      <module name="criter-codegen-app" options="-parameters" />
+      <module name="criter-codegen-integration" options="-parameters" />
+      <module name="criteria-codegen-api-impl" options="" />
+      <module name="criteria-codegen-integration" options="-parameters" />
+      <module name="criteria-codegen-intergation" options="" />
+      <module name="criteria-codegen-processor" options="" />
+    </option>
+  </component>
+</project>
